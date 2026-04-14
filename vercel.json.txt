@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "functions": {
+    "api/instagram.js": {
+      "memory": 128,
+      "maxDuration": 10
+    }
+  }
+}
